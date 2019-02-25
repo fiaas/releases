@@ -1,0 +1,7 @@
+{
+    "image": "fiaas/fiaas-deploy-daemon:20190206110218-449abc6",
+    "build": "https://travis.schibsted.io/finn/fiaas-deploy-daemon/builds/5859377",
+    "commit": "https://github.schibsted.io/finn/fiaas-deploy-daemon/compare/803ae8f942dd...449abc6225d9",
+    "spec": "https://fiaas.github.io/releases/artifacts/20190206110218-449abc6/fiaas.yml",
+    "updated": "2019-02-12T08:05:04.816867"
+}
