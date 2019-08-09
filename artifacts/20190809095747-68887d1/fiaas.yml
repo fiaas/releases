@@ -1,0 +1,18 @@
+---
+version: 3
+admin_access: true
+replicas:
+  maximum: 1
+  minimum: 1
+resources:
+  requests:
+    memory: 128Mi
+ports:
+  - target_port: 5000
+healthchecks:
+  liveness:
+    http:
+      path: /healthz
+metrics:
+  prometheus:
+    path: /internal-backstage/prometheus
