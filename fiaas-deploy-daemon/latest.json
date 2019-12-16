@@ -1,7 +1,7 @@
 {
-    "image": "fiaas/fiaas-deploy-daemon:20191210135421-6997561",
-    "build": "https://fiaas.semaphoreci.com/jobs/fd11dacc-2036-4cc6-a078-154d7fd71c4a",
-    "commit": "https://github.com/fiaas/fiaas-deploy-daemon/commit/699756144b3d32d2f9517aeb51ed594fa7f10312",
-    "spec": "https://fiaas.github.io/releases/artifacts/20191210135421-6997561/fiaas.yml",
-    "updated": "2019-12-10T14:03:50+00:00"
+    "image": "fiaas/fiaas-deploy-daemon:20191216084248-a5bbcd2",
+    "build": "https://fiaas.semaphoreci.com/jobs/9d0eab5b-7fd8-4051-92eb-1b75e7f74b91",
+    "commit": "https://github.com/fiaas/fiaas-deploy-daemon/commit/a5bbcd2aeb5e31a24746d6b7a4183dcc03ec15a0",
+    "spec": "https://fiaas.github.io/releases/artifacts/20191216084248-a5bbcd2/fiaas.yml",
+    "updated": "2019-12-16T08:52:01+00:00"
 }
